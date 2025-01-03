@@ -1,0 +1,7 @@
+stages:
+  - sast
+
+sast:
+  stage: sast
+  script:
+    - echo "Running SAST Scan"
