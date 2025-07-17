@@ -1,4 +1,6 @@
-# NISAR_L3_CropArea
+
+# NISAR_CropArea
+
 Repository for L3 science products for the Ecosystems Crop Area workflow
 
 
@@ -13,7 +15,9 @@ This notebook describes the ATBD for generating an agricultural crop area produc
 
 2) Clone your fork to your local machine with an SSH key
    ```
-   git clone git@github.com:{your_github_username}/NISAR_L3_CropArea.git
+
+   git clone git@github.com:{your_github_username}/NISAR_CropArea.git
+
    ```
 3) Install the required Python packages
    ```
