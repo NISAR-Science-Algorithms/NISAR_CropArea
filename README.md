@@ -21,9 +21,9 @@ This notebook describes the ATBD for generating an agricultural crop area produc
    ```
 3) Install the required Python packages
    ```
-   cd NISAR_L3_CropArea
+   cd NISAR_CropArea
    conda env create -f requirements.yml
-   conda activate NISAR_L3_CropArea
+   conda activate NISAR_CropArea
    ```
 4) Run the notebooks
    ```
