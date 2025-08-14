@@ -3,7 +3,7 @@
 
 Repository for L3 science products for the Ecosystems Crop Area workflow
 
-j
+
 
 ### ***NISAR_L3_CropArea_ProductGeneration.ipynb:***
 This notebook describes the ATBD for generating an agricultural crop area product from NISAR time series data stacks. The algorithm implemented within is designed to meet the Level-2 Science requirement for detecting active crop areas.  The contents of this repository  is tailored to provide users the supported resources needed to generate the L3 product, including a cropped & coregistered NISAR-simulated GCOV time series stack, an array of thresholds derived from the ROC curve, a geojson file specifying the AOI, as well as a configuration file.   The ROC curve is not directly calculated and plotted in this notebook, given that a configuration file is already provided, but the user can reference the data flow diagram which provides a detailed visualization of the workflow implemented.
