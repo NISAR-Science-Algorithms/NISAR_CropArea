@@ -23,13 +23,12 @@ This notebook describes the ATBD for generating an agricultural crop area produc
    cd NISAR_CropArea
    conda env create -f requirements.yml
    conda activate NISAR_CropArea
+   python -m ipykernel install --user --name=NISAR_CropArea
    ```
 4) Run the notebooks
    ```
    jupyter notebook
    ```
-test
-
    
 ### For Developers Submitting Code
 1) Install pre-commit to ensure pre-commit hooks are run
